@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "554241179502",
+    "project_id": "amit-b4b9d",
+    "storage_bucket": "amit-b4b9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554241179502:android:cd78a2e1a20c0094f5cb7f",
+        "android_client_info": {
+          "package_name": "com.mine.foodninja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554241179502-sffa45cg7qkvfohcv44tj227ka5d2v52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mine.foodninja",
+            "certificate_hash": "4a375d516163157f5c8b1f13c17f3d647a9aa60e"
+          }
+        },
+        {
+          "client_id": "554241179502-v2a11vudlaplraiqg67m5c04r5gn9u5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkkgfNqFxNOIqzG2aojhmuXm3L8V7M3jE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554241179502-v2a11vudlaplraiqg67m5c04r5gn9u5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
